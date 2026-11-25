@@ -1,0 +1,20 @@
+# Bağımlılıklar ve derleme çıktıları
+node_modules/
+dist/
+dist-ssr/
+
+# Ortam değişkenleri
+.env
+.env.local
+.env.*.local
+
+# İşletim sistemi ve log dosyaları
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# Editör dosyaları
+.vscode/*
+!.vscode/extensions.json
+.idea/
